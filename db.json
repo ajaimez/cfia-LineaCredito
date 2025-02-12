@@ -1,0 +1,119 @@
+[
+    {
+      "loaN_LoanType_Id": 3,
+      "tc_Codigo": "A01",
+      "tc_Nombre_Linea": "AUXILIO",
+      "tn_Monto_Maximo": " 5000000\r\n\r\n",
+      "tn_Plazo_Maximo": 60,
+      "tn_Tasa_Interes": 7,
+      "tn_Estado": "1         "
+    },
+    {
+      "loaN_LoanType_Id": 4,
+      "tc_Codigo": "D01",
+      "tc_Nombre_Linea": "PERSONAL",
+      "tn_Monto_Maximo": " 20000000\r\n",
+      "tn_Plazo_Maximo": 120,
+      "tn_Tasa_Interes": 14,
+      "tn_Estado": "1         "
+    },
+    {
+      "loaN_LoanType_Id": 5,
+      "tc_Codigo": "P01",
+      "tc_Nombre_Linea": "DESARROLLO PROFESIONAL",
+      "tn_Monto_Maximo": " 20000000\r\n",
+      "tn_Plazo_Maximo": 72,
+      "tn_Tasa_Interes": 7.5,
+      "tn_Estado": "1         "
+    },
+    {
+      "loaN_LoanType_Id": 6,
+      "tc_Codigo": "F01",
+      "tc_Nombre_Linea": "PERSONAL SIN FIADOR",
+      "tn_Monto_Maximo": " 7000000\r\n\r\n",
+      "tn_Plazo_Maximo": 72,
+      "tn_Tasa_Interes": 20.5,
+      "tn_Estado": "1         "
+    },
+    {
+      "loaN_LoanType_Id": 8,
+      "tc_Codigo": "E01",
+      "tc_Nombre_Linea": "ESP. MEDICAS NO ESTETICAS",
+      "tn_Monto_Maximo": " 10000000\r\n",
+      "tn_Plazo_Maximo": 96,
+      "tn_Tasa_Interes": 7,
+      "tn_Estado": "1         "
+    },
+    {
+      "loaN_LoanType_Id": 16,
+      "tc_Codigo": "RD01",
+      "tc_Nombre_Linea": "REFUNDICION DEUDAS ",
+      "tn_Monto_Maximo": " 25000000\r\n",
+      "tn_Plazo_Maximo": 180,
+      "tn_Tasa_Interes": 11.5,
+      "tn_Estado": "1         "
+    },
+    {
+      "loaN_LoanType_Id": 29,
+      "tc_Codigo": "005",
+      "tc_Nombre_Linea": "COMPRA VEHICULO NUEVO",
+      "tn_Monto_Maximo": " 20000000\r\n",
+      "tn_Plazo_Maximo": 72,
+      "tn_Tasa_Interes": 8.5,
+      "tn_Estado": "1         "
+    },
+    {
+      "loaN_LoanType_Id": 30,
+      "tc_Codigo": "006",
+      "tc_Nombre_Linea": "COMPRA VEHICULO USADO",
+      "tn_Monto_Maximo": " 20000000\r\n",
+      "tn_Plazo_Maximo": 72,
+      "tn_Tasa_Interes": 9.5,
+      "tn_Estado": "1         "
+    },
+    {
+      "loaN_LoanType_Id": 33,
+      "tc_Codigo": "009",
+      "tc_Nombre_Linea": "ESP. MEDICAS ESTETICAS",
+      "tn_Monto_Maximo": " 10000000\r\n",
+      "tn_Plazo_Maximo": 60,
+      "tn_Tasa_Interes": 9.5,
+      "tn_Estado": "1         "
+    },
+    {
+      "loaN_LoanType_Id": 34,
+      "tc_Codigo": "010",
+      "tc_Nombre_Linea": "PEQUEÑO DESARROLLADOR INMOBILIARIO Y EMPRENDIMIENTO",
+      "tn_Monto_Maximo": " 25000000\r\n",
+      "tn_Plazo_Maximo": 144,
+      "tn_Tasa_Interes": 11.5,
+      "tn_Estado": "1         "
+    },
+    {
+      "loaN_LoanType_Id": 37,
+      "tc_Codigo": "013",
+      "tc_Nombre_Linea": "PEQUEÑO DESARROLLADOR PROYECTOS(CP)",
+      "tn_Monto_Maximo": " 15000000\r\n",
+      "tn_Plazo_Maximo": 36,
+      "tn_Tasa_Interes": 11,
+      "tn_Estado": "1         "
+    },
+    {
+      "loaN_LoanType_Id": 38,
+      "tc_Codigo": "MCT0",
+      "tc_Nombre_Linea": "Microcrédito DP",
+      "tn_Monto_Maximo": " 20000000\r\n",
+      "tn_Plazo_Maximo": 18,
+      "tn_Tasa_Interes": 8.5,
+      "tn_Estado": "1         "
+    },
+    {
+      "loaN_LoanType_Id": 39,
+      "tc_Codigo": "CVEN",
+      "tc_Nombre_Linea": "Compra de Vehículo Nuevo Eléctrico",
+      "tn_Monto_Maximo": " 35000000\r\n",
+      "tn_Plazo_Maximo": 84,
+      "tn_Tasa_Interes": 7.5,
+      "tn_Estado": "1         "
+    }
+  ]
